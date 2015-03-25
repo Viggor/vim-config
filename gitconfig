@@ -1,0 +1,7 @@
+[user]
+	email = valentin.chemiere@akretion.com
+	name = Valentin Chemiere
+[push]
+	default = simple
+[core]
+	editor = vim
